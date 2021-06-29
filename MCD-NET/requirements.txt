@@ -1,0 +1,15 @@
+collections
+glob
+os
+sys
+time
+nibabel==3.1.1
+numpy==1.18.1
+scipy==1.4.1
+skimage==0.15.0
+torch==1.6.0
+torchvision==0.7.0
+
+
+
+
